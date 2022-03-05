@@ -1,7 +1,7 @@
 GIT
-git -config --global user.name value
-                    user.email value
+git -config --global user.name value / user.email value
 
 
 NODE JS
     npm init -y
+    npm install -g live-server / npm i live-server (-g instalation done globaly in your PC)

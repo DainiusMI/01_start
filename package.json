@@ -11,12 +11,17 @@
     "url": "git+https://github.com/DainiusMI/_01_start.git"
   },
   "keywords": [
-    "html", "npm", "live-server"
+    "html",
+    "npm",
+    "live-server"
   ],
   "author": "Dainius Mi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DainiusMI/_01_start/issues"
   },
-  "homepage": "https://github.com/DainiusMI/_01_start#readme"
+  "homepage": "https://github.com/DainiusMI/_01_start#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
