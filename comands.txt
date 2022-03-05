@@ -3,6 +3,13 @@ git -config --global user.name value / user.email value
 
 
 NODE JS
+        close packege.json before module instalation
     npm init -y
-    npm install -g live-server / npm i live-server (-g instalation done globaly in your PC)
-    do not commit files created after instalation node_modules
+    npm install -g live-server / npm i live-server 
+        -g instalation done globaly in your PC
+        -do not commit files created after instalation node_modules
+    npm i 
+        -gathering modules required for the project that has dependences in package.json
+    npm run script_name
+        -starting a script
+
