@@ -1,0 +1,22 @@
+{
+  "name": "01_start",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DainiusMI/_01_start.git"
+  },
+  "keywords": [
+    "html", "npm", "live-server"
+  ],
+  "author": "Dainius Mi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DainiusMI/_01_start/issues"
+  },
+  "homepage": "https://github.com/DainiusMI/_01_start#readme"
+}
